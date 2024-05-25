@@ -3,7 +3,7 @@ package manta
 import (
 	"io"
 
-	"github.com/dotabuff/manta/dota"
+	"github.com/jjsz/manta/dota"
 )
 
 const buffer = 1024 * 100

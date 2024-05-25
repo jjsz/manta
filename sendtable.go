@@ -1,7 +1,7 @@
 package manta
 
 import (
-	"github.com/dotabuff/manta/dota"
+	"github.com/jjsz/manta/dota"
 	"github.com/golang/protobuf/proto"
 )
 
